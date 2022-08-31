@@ -1,0 +1,15 @@
+home:
+  heading: "THE FIFTY ONE"
+  subheading: "기술블로그"
+  banner:
+    video: /assets/images/banners/the_fifty_one_instagram_video.mp4
+    loop: true
+    volume: 0
+    start_at: 8.5
+    image: /assets/images/banners/home.jpeg
+    opacity: 0.618
+    background: "#000"
+    height: "73vh"
+    min_height: "38vh"
+    heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+    subheading_style: "color: gold"
