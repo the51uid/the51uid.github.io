@@ -1,6 +1,6 @@
 home:
   heading: "THE FIFTY ONE"
-  subheading: "기술블로그"
+  subheading: "기술블로그 입니다"
   banner:
     video: /assets/images/banners/the_fifty_one_instagram_video.mp4
     loop: true
